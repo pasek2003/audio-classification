@@ -4,5 +4,4 @@ Sumber data
 (https://tspace.library.utoronto.ca/handle/1807/24487)
 Dokumen dataset pada ini (https://drive.google.com/drive/folders/1DxjuaeRIrJaEZiVT1sdssCD4Bq7Wj73r?usp=drive_link)
 
-[![emotional-audio-classification-PPDM_D2_Project2]([https://img.youtube.com/vi/rW0qYhh0ZZ8/0.jpg])](https://www.youtube.com/watch?v=rW0qYhh0ZZ8)
-
+[![emotional-audio-classification-PPDM_D2_Project2]([https://img.youtube.com/vi/4VFZbs3v3ek/0.jpg])](https://www.youtube.com/watch?v=4VFZbs3v3ek)
